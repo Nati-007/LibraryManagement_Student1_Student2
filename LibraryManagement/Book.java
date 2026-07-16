@@ -1,5 +1,8 @@
 public class Book {
 
-    private int borrowedBooks;
+    private String title;
+    private String author;
+    private double price;
+    private boolean available;
 
 }
