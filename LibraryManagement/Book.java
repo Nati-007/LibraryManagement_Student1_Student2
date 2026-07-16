@@ -5,5 +5,4 @@ public class Book {
     private double price;
     private boolean available;
 
-
 }
